@@ -6,11 +6,11 @@ install:
   - pip3 install -U -r requirements.txt
 
 script:
-  - sphinx-build -a -b html . _build
+  - sphinx-build -a -b html . _build/html
   - echo "=============================="
-  - ll ./
+  - ls -Ahl ./
   - echo "=============================="
-  - ll _build
+  - ls -Ahl _build/html
   - echo "=============================="
 
 
