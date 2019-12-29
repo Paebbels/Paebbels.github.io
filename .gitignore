@@ -1,0 +1,11 @@
+# Website contents
+index.rst
+/Content/**/*.*
+LICENSE.md
+README.md
+
+# Sphinx
+conf.py
+
+# PyCharm project
+/.idea/**/*.*
