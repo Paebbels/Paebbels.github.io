@@ -1,13 +1,133 @@
-Paebbels.GitHub.io
-##################
+.. #
+   include:: shields.inc
+
+.. image::  https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons
+   :alt: Creative Commons - Attribution 4.0 International
+   :target: https://paebbels.github.io/LICENSE.html
+.. image:: https://img.shields.io/travis/com/Paebbels/Paebbels.GitHub.io?logo=Travis
+   :alt: Travis-CI
+   :target: https://travis-ci.com/Paebbels/Paebbels.GitHub.io
+.. image:: https://img.shields.io/badge/chat-on%20gitter-4db797.svg?longCache=true&logo=gitter
+   :alt: Chat on Gitter
+   :target: https://gitter.im/paebbels
+
+|hr|
+
+Paebbels
+########
 
 .. note::
 
-   Write some text.
+   * Short Bio
+   * Fields of research and development
+
+
+Open Source Work
+****************
+
+See my `OpenHub profile <https://www.openhub.net/accounts/Paebbels>`_ for detailed statistics throuout all my FOSS work.
+
+GitHub Organisations
+====================
+
+* `GHDL <https://github.com/GHDL/GHDL>`_ - VHDL 2008/93/87 simulator
+* `OSVVM <https://github.com/OSVVM/OSVVM>`_ - Open Source VHDL Verification Methodology
+* `FPHDL <https://github.com/FPHDL?ts=2>`_ - VHDL-2008 Support Library
+* `VLSI-EDA <https://github.com/VLSI-EDA?ts=2>`_ - Professur für VLSI-Entwurfssysteme, Diagnostik und Architektur
+* `VHDL <https://github.com/VHDL?ts=2>`_ - Open Source VHDL Group
+* `UnofficialRepos <https://github.com/UnofficialRepos?ts=2>`_ - Code put into repositories for useage in submodules.
+
+
+GitLab Organisations
+====================
+
+* `IEEE-P1076 <https://gitlab.com/IEEE-P1076>`_ - IEEE P1076 Working Group
+
+
+Maintained Repositories
+=======================
+
+Related to:
+
+* :ref:`VHDL <vhdlprojects>`
+* :ref:`Python <pythonprojects>`
+
+
+Work at IEEE Standards Association
+**********************************
+
+* IEEE P1076
+
+  * Working Group Vice-Chair
+
+* Open Source Pilot P1076
+
+  * Releasing VHDL Packages as open source
+
+
+Other Profiles
+**************
+
+.. |img-github| image:: https://img.shields.io/badge/Profile-Paebbels-blue?logo=github
+   :alt: Paebbels at GitHub
+   :target: https://github.com/Paebbels
+.. |img-gitlab| image:: https://img.shields.io/badge/Profile-Paebbels-blue?logo=gitlab
+   :alt: Paebbels at GitHub
+   :target: https://github.com/Paebbels
+.. |img-so| image:: https://stackexchange.com/users/flair/4584206.png
+   :target: https://stackexchange.com/users/4584206/paebbels?tab=accounts
+.. |img-openhub| image:: https://www.openhub.net/accounts/Paebbels/widgets/account_tiny?format=gif&amp;ref=sample |
+   :alt: Open Hub profile for Patrick Lehmann
+   :target: https://www.openhub.net/accounts/Paebbels?ref=sample
+.. |img-gitter| image:: https://img.shields.io/badge/Profile-PaebbelsLemmi-4db797.svg?longCache=true&logo=gitter
+   :alt: Chat on Gitter
+   :target: https://gitter.im/paebbels
+.. |img-twitter| image:: https://img.shields.io/badge/Profile-PaebbelsLemmi-blue?logo=twitter
+   :alt: Paebbels at Twitter
+   :target: https://twitter.com/PaebbelsLemmi
+
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                        | Profile                                                                                                                                                                                   |
++========================+===========================================================================================================================================================================================+
+| GitHub                 | |img-github|                                                                                                                                                                              |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| GitLab                 | |img-gitlab|                                                                                                                                                                              |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Open Hub               | |img-openhub|                                                                                                                                                                             |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **StackExchange**      | |img-so|                                                                                                                                                                                  |
+| StackOverflow          |                                                                                                                                                                                           |
+| Electrical Engineering |                                                                                                                                                                                           |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Gitter                 | |img-gitter|                                                                                                                                                                              |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Twitter                | |img-twitter|                                                                                                                                                                             |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Goolge Scholar         | `Patrick Lehmann at Google Scholar <https://scholar.google.de/citations?hl=de&user=PXTtbdEAAAAJ>`_                                                                                        |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| dblp                   | `Patrick Lehmann at dblp <http://dblp.uni-trier.de/pers/hd/l/Lehmann:Patrick.html>`_                                                                                                      |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ResearchGate           | `Patrick Lehmann at ResearchGate <https://www.researchgate.net/profile/Patrick_Lehmann3>`_                                                                                                |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+
+Support or Contact
+******************
+
+* `Paebbels at Gitter <https://gitter.im/paebbels>`_
+* `Paebbels at Twitter <https://twitter.com/PaebbelsLemmi>`_
+
+
+
+
+
+
+
 
 ------------------------------------
 
-**Author:** Patrick Lehmann - Paebbels [at] gmail [dot] com  
+**Author:** `Patrick Lehmann <https://github.com/Paebbels>`_ - Paebbels [at] gmail [dot] com |br|
 **License:** :ref:`LICENSE`
 
 ------------------------------------
@@ -21,6 +141,7 @@ This document was generated on |docdate|.
    :hidden:
 
    Content/Private
+   Content/Bio
    Content/TrainingConsulting
 
 

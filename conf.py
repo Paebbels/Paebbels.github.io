@@ -29,6 +29,19 @@ author = 'Patrick Lehmann'
 release = 'v1.0'
 
 
+# ==============================================================================
+# Restructured Text settings
+# ==============================================================================
+prologPath = "prolog.inc"
+try:
+	with open(prologPath, "r") as prologFile:
+		rst_prolog = prologFile.read()
+except Exception as ex:
+	print("[ERROR:] While reading '{0!s}'.".format(prologPath))
+	print(ex)
+	rst_prolog = ""
+
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
