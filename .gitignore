@@ -2,7 +2,7 @@
 index.rst
 /Content/**/*.*
 LICENSE.md
-README.md
+# README.md
 genindex.rst
 
 # Sphinx
