@@ -3,9 +3,19 @@ index.rst
 /Content/**/*.*
 LICENSE.md
 README.md
+genindex.rst
 
 # Sphinx
 conf.py
+make.bat
+Makefile
+requirements.txt
+
+# Sphinx outputs
+/_build/**/*.*
 
 # PyCharm project
 /.idea/**/*.*
+
+# Travis-CI
+.travis.yml
