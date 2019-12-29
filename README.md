@@ -1,4 +1,4 @@
-[![Creative Commons - Attribution 4.0 International](https://img.shields.io/badge/License-Creative%20Commons%20Attribution--4.0-aab2ab.svg?longCache=true)](https://github.com/Paebbels/Paebbels.GitHub.io/blob/master/LICENSE.md)
+[![Creative Commons - Attribution 4.0 International](https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons)](https://github.com/Paebbels/Paebbels.GitHub.io/blob/master/LICENSE.md)
 [![Travis](https://img.shields.io/travis/com/Paebbels/Paebbels.GitHub.io?logo=Travis)](https://travis-ci.com/Paebbels/Paebbels.GitHub.io)
 
 # Paebbels.GitHub.io
@@ -13,7 +13,7 @@ links and open-source projects.
 -------------------------
 
 **Author:** [Patrick Lehmann](mailto://Paebbels%20[at]%20gmail%20[dot]%20com)  
-**License:** [Creative Commons - Attribution 4.0 International - CC-BY-4.0](LICENSE.md)
+**License:** [Creative Commons - Attribution 4.0 International (CC-BY-4.0)](LICENSE.md)
 
 -------------------------
 
