@@ -8,10 +8,7 @@ install:
 script:
   - sphinx-build -a -b html . _build/html
   - echo "=============================="
-  - ls -Ahl ./
-  - echo "=============================="
   - ls -Ahl _build/html
-  - echo "=============================="
 
 
 deploy:
