@@ -7,17 +7,19 @@ install:
 
 script:
   - sphinx-build -a -b html . _build/html
-  - echo "=============================="
-  - ls -Ahl _build/html
 
 before_deploy:
   - rm -Rf _build/html/.doctrees
-  - cp -R _build/html/* .
+#  - mkdir ~deploy
+  - cp README.md LICENSE.md .nojekyll ~deploy
+  - cp -R _build/html/* ~deploy
+  - ls -Ahl ~deploy
 
 deploy:
   skip_cleanup: true
   provider: pages
   github_token: $GITHUB_TOKEN
+  local_dir: ~deploy
   target_branch: master
   keep_history: true
   committer_from_gh: true
