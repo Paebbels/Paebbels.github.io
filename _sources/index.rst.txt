@@ -1,7 +1,7 @@
 .. #
    include:: shields.inc
 
-.. image:: https://img.shields.io/badge/-Paebbels/Paebbels.GitHub.io-323131.svg?logo=github&longCache=true
+.. image:: https://img.shields.io/badge/Paebbels-Paebbels.GitHub.io-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :target: https://github.com/Paebbels/Paebbels.GitHub.io
 .. image::  https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons&logoColor=fff
@@ -16,14 +16,37 @@
 
 |hr|
 
+.. #
+   sidebar:: Short Bio
+
+   Mr. Lehmann studied computer science at Technische Universität Dresden, Germany.
+   He started to teach computer engineering and architecture as a tutor. Later on,
+   he specialized in digital design, FPGA technology, and high speed communications.
+   He shared his gained knowledge in labs, research articles, and on social
+   platforms. His research focused on digital designs with VHDL as well as the
+   integration of EDA design steps into a Git and web services based development
+   flow. Since 2017, Patrick Lehman is working for PLC2 GmbH as a trainer for VHDL,
+   OSVVM and PCI Express.
+
+   He is one of the developers and maintainers of The PoC-Library, a platform and
+   vendor independent open source IP core library. He is also a contributor to the
+   free VHDL simulator GHDL. In 2016, he started an initiative called "Open Source
+   VHDL Group".
+
+   Mr. Lehmann is active in the IEEE P1076 "VHDL Analysis and Standardization
+   Group" since 2014. He detailed and wrote major parts of the language changes
+   for the upcoming VHDL revision. In 2017, he became an IEEE Standards
+   Association member and was announced vice-chair of the P1076 working group.
+   In this current work, he is working together with IEEE to release all VHDL
+   language packages as open source, as well as creating a new collaborative,
+   open source publishing flow in IEEE.
+
 Paebbels
 ########
 
-.. note::
+.. todo::
 
-   * Short Bio
    * Fields of research and development
-
 
 Open Source Work
 ****************
@@ -52,8 +75,8 @@ Maintained Repositories
 
 Related to:
 
-* :ref:`VHDL <vhdlprojects>`
-* :ref:`Python <pythonprojects>`
+* :ref:`VHDL <VHDLProjects>`
+* :ref:`Python <PythonProjects>`
 
 
 Work at IEEE Standards Association
@@ -131,7 +154,7 @@ Support or Contact
 ------------------------------------
 
 **Author:** `Patrick Lehmann <https://github.com/Paebbels>`_ - Paebbels [at] gmail [dot] com |br|
-**License:** :ref:`LICENSE`
+**License:** `Creative Commons - Attribution 4.0 <LICENSE.html>`_
 
 ------------------------------------
 
@@ -154,6 +177,7 @@ This document was generated on |docdate|.
 
    Content/VHDLProjects
    Content/PythonProjects
+   Content/Dashboards
 
 
 .. toctree::
