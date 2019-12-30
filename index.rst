@@ -1,7 +1,7 @@
 .. #
    include:: shields.inc
 
-.. image:: https://img.shields.io/badge/-Paebbels/Paebbels.GitHub.io-323131.svg?logo=github&longCache=true
+.. image:: https://img.shields.io/badge/Paebbels-Paebbels.GitHub.io-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :target: https://github.com/Paebbels/Paebbels.GitHub.io
 .. image::  https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons&logoColor=fff
@@ -16,10 +16,8 @@
 
 |hr|
 
-Paebbels
-########
-
-.. sidebar:: Short Bio
+.. #
+   sidebar:: Short Bio
 
    Mr. Lehmann studied computer science at Technische Universität Dresden, Germany.
    He started to teach computer engineering and architecture as a tutor. Later on,
@@ -43,9 +41,11 @@ Paebbels
    language packages as open source, as well as creating a new collaborative,
    open source publishing flow in IEEE.
 
-.. note::
+Paebbels
+########
 
-   * Short Bio
+.. todo::
+
    * Fields of research and development
 
 Open Source Work

@@ -1,3 +1,7 @@
+.. index::
+   pair: Dashboard; Python Projects
+.. _Dashboard-Python:
+
 Python Projects - Summary
 #########################
 
@@ -6,7 +10,7 @@ Python Projects - Summary
    pyIPCMI
    =============================================================================
 
-.. |img-pyIPCMI-github| image:: https://img.shields.io/badge/-Paebbels/pyIPCMI-323131.svg?logo=github&longCache=true
+.. |img-pyIPCMI-github| image:: https://img.shields.io/badge/Paebbels-pyIPCMI-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyIPCMI
@@ -69,7 +73,7 @@ Python Projects - Summary
    pyVHDLParser
    =============================================================================
 
-.. |img-pyVHDLParser-github| image:: https://img.shields.io/badge/-Paebbels/pyVHDLParser-323131.svg?logo=github&longCache=true
+.. |img-pyVHDLParser-github| image:: https://img.shields.io/badge/Paebbels-pyVHDLParser-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyVHDLParser
@@ -132,7 +136,7 @@ Python Projects - Summary
    pyExploringCodeDOMParser
    =============================================================================
 
-.. |img-pyExploringCodeDOMParser-github| image:: https://img.shields.io/badge/-Paebbels/pyExploringCodeDOMParser-323131.svg?logo=github&longCache=true
+.. |img-pyExploringCodeDOMParser-github| image:: https://img.shields.io/badge/Paebbels-pyExploringCodeDOMParser-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyExploringCodeDOMParser
@@ -195,7 +199,7 @@ Python Projects - Summary
    pyHTTPRequestRouter
    =============================================================================
 
-.. |img-pyHTTPRequestRouter-github| image:: https://img.shields.io/badge/-Paebbels/pyHTTPRequestRouter-323131.svg?logo=github&longCache=true
+.. |img-pyHTTPRequestRouter-github| image:: https://img.shields.io/badge/Paebbels-pyHTTPRequestRouter-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPRequestRouter
@@ -258,7 +262,7 @@ Python Projects - Summary
    pyIPXACT
    =============================================================================
 
-.. |img-pyIPXACT-github| image:: https://img.shields.io/badge/-Paebbels/pyIPXACT-323131.svg?logo=github&longCache=true
+.. |img-pyIPXACT-github| image:: https://img.shields.io/badge/Paebbels-pyIPXACT-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyIPXACT
@@ -322,7 +326,7 @@ Python Projects - Summary
    sphinxcontrib-vhdldomain
    =============================================================================
 
-.. |img-vhdldomain-github| image:: https://img.shields.io/badge/-Paebbels/sphinxcontrib-vhdldomain-323131.svg?logo=github&longCache=true
+.. |img-vhdldomain-github| image:: https://img.shields.io/badge/Paebbels-sphinxcontrib--vhdldomain-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/sphinxcontrib-vhdldomain
@@ -385,7 +389,7 @@ Python Projects - Summary
    SphinxExtensions
    =============================================================================
 
-.. |img-SphinxExtensions-github| image:: https://img.shields.io/badge/-Paebbels/SphinxExtensions-323131.svg?logo=github&longCache=true
+.. |img-SphinxExtensions-github| image:: https://img.shields.io/badge/Paebbels-SphinxExtensions-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/SphinxExtensions
@@ -448,7 +452,7 @@ Python Projects - Summary
    pyExtendedConfigParser
    =============================================================================
 
-.. |img-pyExtendedConfigParser-github| image:: https://img.shields.io/badge/-Paebbels/pyExtendedConfigParser-323131.svg?logo=github&longCache=true
+.. |img-pyExtendedConfigParser-github| image:: https://img.shields.io/badge/Paebbels-pyExtendedConfigParser-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyExtendedConfigParser
@@ -511,7 +515,7 @@ Python Projects - Summary
    pyAttributes
    =============================================================================
 
-.. |img-pyAttributes-github| image:: https://img.shields.io/badge/-Paebbels/pyAttributes-323131.svg?logo=github&longCache=true
+.. |img-pyAttributes-github| image:: https://img.shields.io/badge/Paebbels-pyAttributes-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyAttributes
@@ -574,7 +578,7 @@ Python Projects - Summary
    pyCallBy
    =============================================================================
 
-.. |img-pyCallBy-github| image:: https://img.shields.io/badge/-Paebbels/pyCallBy-323131.svg?logo=github&longCache=true
+.. |img-pyCallBy-github| image:: https://img.shields.io/badge/Paebbels-pyCallBy-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyCallBy
@@ -637,7 +641,7 @@ Python Projects - Summary
    pyExceptions
    =============================================================================
 
-.. |img-pyExceptions-github| image:: https://img.shields.io/badge/-Paebbels/pyExceptions-323131.svg?logo=github&longCache=true
+.. |img-pyExceptions-github| image:: https://img.shields.io/badge/Paebbels-pyExceptions-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyExceptions
@@ -700,7 +704,7 @@ Python Projects - Summary
    pyGenericPath
    =============================================================================
 
-.. |img-pyGenericPath-github| image:: https://img.shields.io/badge/-Paebbels/pyGenericPath-323131.svg?logo=github&longCache=true
+.. |img-pyGenericPath-github| image:: https://img.shields.io/badge/Paebbels-pyGenericPath-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyGenericPath
@@ -763,7 +767,7 @@ Python Projects - Summary
    pyHTTPInterface
    =============================================================================
 
-.. |img-pyHTTPInterface-github| image:: https://img.shields.io/badge/-Paebbels/pyHTTPInterface-323131.svg?logo=github&longCache=true
+.. |img-pyHTTPInterface-github| image:: https://img.shields.io/badge/Paebbels-pyHTTPInterface-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPInterface
@@ -826,7 +830,7 @@ Python Projects - Summary
    pyHTTPServer
    =============================================================================
 
-.. |img-pyHTTPServer-github| image:: https://img.shields.io/badge/-Paebbels/pyHTTPServer-323131.svg?logo=github&longCache=true
+.. |img-pyHTTPServer-github| image:: https://img.shields.io/badge/Paebbels-pyHTTPServer-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPServer
@@ -889,7 +893,7 @@ Python Projects - Summary
    pyMetaClasses
    =============================================================================
 
-.. |img-pyMetaClasses-github| image:: https://img.shields.io/badge/-Paebbels/pyMetaClasses-323131.svg?logo=github&longCache=true
+.. |img-pyMetaClasses-github| image:: https://img.shields.io/badge/Paebbels-pyMetaClasses-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyMetaClasses
@@ -952,7 +956,7 @@ Python Projects - Summary
    pyTerminalUI
    =============================================================================
 
-.. |img-pyTerminalUI-github| image:: https://img.shields.io/badge/-Paebbels/pyTerminalUI-323131.svg?logo=github&longCache=true
+.. |img-pyTerminalUI-github| image:: https://img.shields.io/badge/Paebbels-pyTerminalUI-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyTerminalUI
@@ -1015,7 +1019,7 @@ Python Projects - Summary
    pyTokenizer
    =============================================================================
 
-.. |img-pyTokenizer-github| image:: https://img.shields.io/badge/-Paebbels/pyTokenizer-323131.svg?logo=github&longCache=true
+.. |img-pyTokenizer-github| image:: https://img.shields.io/badge/Paebbels-pyTokenizer-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :height: 22
    :target: https://github.com/Paebbels/pyTokenizer
