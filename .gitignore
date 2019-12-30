@@ -1,6 +1,7 @@
 # Website contents
 index.rst
-/Content/**/*.*
+/Content/**/*.rst
+!/Content/**/*.html
 # LICENSE.md
 # README.md
 genindex.rst
