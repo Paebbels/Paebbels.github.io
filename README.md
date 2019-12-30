@@ -1,4 +1,4 @@
-[![Creative Commons - Attribution 4.0 International](https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons)](https://github.com/Paebbels/Paebbels.GitHub.io/blob/master/LICENSE.md)
+[![Creative Commons - Attribution 4.0 International](https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons&logoColor=fff)](https://github.com/Paebbels/Paebbels.GitHub.io/blob/master/LICENSE.md)
 [![Travis](https://img.shields.io/travis/com/Paebbels/Paebbels.GitHub.io/content?logo=Travis)](https://travis-ci.com/Paebbels/Paebbels.GitHub.io)
 
 # Paebbels.GitHub.io

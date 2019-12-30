@@ -4,7 +4,7 @@
 .. image:: https://img.shields.io/badge/-Paebbels/Paebbels.GitHub.io-323131.svg?logo=github&longCache=true
    :alt: Sourcecode on GitHub
    :target: https://github.com/Paebbels/Paebbels.GitHub.io
-.. image::  https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons
+.. image::  https://img.shields.io/badge/Attribution--4.0-66b0d3.svg?longCache=true&label=Creative%20Commons&logo=creative%20commons&logoColor=fff
    :alt: Creative Commons - Attribution 4.0 International
    :target: https://paebbels.github.io/LICENSE.html
 .. image:: https://img.shields.io/travis/com/Paebbels/Paebbels.GitHub.io/content?logo=Travis
