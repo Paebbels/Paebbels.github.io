@@ -1,3 +1,5 @@
+.. _VHDLProjects:
+
 VHDL Projects
 #############
 

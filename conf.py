@@ -60,6 +60,7 @@ extensions = [
 	'sphinx.ext.mathjax',
 	'sphinx.ext.ifconfig',
 	'sphinx.ext.viewcode',
+	'sphinx.ext.autosectionlabel',
 # SphinxContrib extensions
 
 # Other extensions
@@ -78,8 +79,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = [
 	"_build",
-	"Thumbs.db",
-	".DS_Store"
+	"README.md"
 ]
 
 
@@ -95,6 +95,14 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# ==============================================================================
+# Sphinx.Ext.AutoSectionLabel
+# ==============================================================================
+# Prefix document path to section labels
+# Example: 'path/to/file:heading'
+autosectionlabel_prefix_document = True
+
 
 # ==============================================================================
 # Sphinx.Ext.InterSphinx

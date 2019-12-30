@@ -1,0 +1,6 @@
+Dashboards
+##########
+
+.. toctree::
+
+   PythonDashboard
