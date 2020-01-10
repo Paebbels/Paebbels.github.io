@@ -78,7 +78,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyVHDLParser
 .. |img-pyVHDLParser-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyVHDLParser-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyVHDLParser?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -141,7 +141,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyExploringCodeDOMParser
 .. |img-pyExploringCodeDOMParser-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyExploringCodeDOMParser-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyExploringCodeDOMParser?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -204,7 +204,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPRequestRouter
 .. |img-pyHTTPRequestRouter-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyHTTPRequestRouter-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyHTTPRequestRouter?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -267,7 +267,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyIPXACT
 .. |img-pyIPXACT-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyIPXACT-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyIPXACT?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -331,7 +331,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/sphinxcontrib-vhdldomain
 .. |img-vhdldomain-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-vhdldomain-tag| image:: https://img.shields.io/github/v/tag/Paebbels/sphinxcontrib-vhdldomain?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -394,7 +394,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/SphinxExtensions
 .. |img-SphinxExtensions-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-SphinxExtensions-tag| image:: https://img.shields.io/github/v/tag/Paebbels/SphinxExtensions?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -457,7 +457,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyExtendedConfigParser
 .. |img-pyExtendedConfigParser-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyExtendedConfigParser-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyExtendedConfigParser?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -520,7 +520,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyAttributes
 .. |img-pyAttributes-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyAttributes-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyAttributes?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -583,7 +583,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyCallBy
 .. |img-pyCallBy-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyCallBy-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyCallBy?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -646,7 +646,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyExceptions
 .. |img-pyExceptions-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyExceptions-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyExceptions?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -709,7 +709,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyGenericPath
 .. |img-pyGenericPath-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyGenericPath-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyGenericPath?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -772,7 +772,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPInterface
 .. |img-pyHTTPInterface-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyHTTPInterface-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyHTTPInterface?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -835,7 +835,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPServer
 .. |img-pyHTTPServer-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyHTTPServer-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyHTTPServer?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -898,7 +898,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyMetaClasses
 .. |img-pyMetaClasses-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyMetaClasses-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyMetaClasses?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -961,7 +961,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyTerminalUI
 .. |img-pyTerminalUI-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyTerminalUI-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyTerminalUI?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
@@ -1024,7 +1024,7 @@ Python Projects - Summary
    :height: 22
    :target: https://github.com/Paebbels/pyTokenizer
 .. |img-pyTokenizer-license| image:: https://img.shields.io/badge/Apache%20License,%202.0-bd0000.svg?longCache=true&label=license&logo=Apache&logoColor=D22128
-   :alt: PyPI - License
+   :alt: License
    :height: 22
 .. |img-pyTokenizer-tag| image:: https://img.shields.io/github/v/tag/Paebbels/pyTokenizer?logo=GitHub&include_prereleases
    :alt: GitHub tag (latest SemVer incl. pre-release
