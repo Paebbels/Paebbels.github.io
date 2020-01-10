@@ -61,6 +61,7 @@ GitHub Organisations
 * `FPHDL <https://github.com/FPHDL?ts=2>`_ - VHDL-2008 Support Library
 * `VLSI-EDA <https://github.com/VLSI-EDA?ts=2>`_ - Professur für VLSI-Entwurfssysteme, Diagnostik und Architektur
 * `VHDL <https://github.com/VHDL?ts=2>`_ - Open Source VHDL Group
+* `BTD <https://github.com/buildthedocs>`_ - Build The Docs
 * `UnofficialRepos <https://github.com/UnofficialRepos?ts=2>`_ - Code put into repositories for useage in submodules.
 
 
