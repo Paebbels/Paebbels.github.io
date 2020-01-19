@@ -55,10 +55,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyIPCMI/network/dependents
-.. |img-pyIPCMI-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyIPCMI-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyIPCMI
+.. |img-pyIPCMI-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyIPCMI
+.. |img-pyIPCMI-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyIPCMI/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyIPCMI
 .. |img-pyIPCMI-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyIPCMI
    :alt: Libraries.io SourceRank
    :height: 22
@@ -118,10 +126,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyVHDLParser/network/dependents
-.. |img-pyVHDLParser-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyVHDLParser-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyVHDLParser
+.. |img-pyVHDLParser-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyVHDLParser
+.. |img-pyVHDLParser-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyVHDLParser/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyVHDLParser
 .. |img-pyVHDLParser-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyVHDLParser
    :alt: Libraries.io SourceRank
    :height: 22
@@ -181,10 +197,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyExploringCodeDOMParser/network/dependents
-.. |img-pyExploringCodeDOMParser-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyExploringCodeDOMParser-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyExploringCodeDOMParser
+.. |img-pyExploringCodeDOMParser-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyExploringCodeDOMParser
+.. |img-pyExploringCodeDOMParser-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyExploringCodeDOMParser/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyExploringCodeDOMParser
 .. |img-pyExploringCodeDOMParser-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyExploringCodeDOMParser
    :alt: Libraries.io SourceRank
    :height: 22
@@ -244,10 +268,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPRequestRouter/network/dependents
-.. |img-pyHTTPRequestRouter-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyHTTPRequestRouter-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyHTTPRequestRouter
+.. |img-pyHTTPRequestRouter-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyHTTPRequestRouter
+.. |img-pyHTTPRequestRouter-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyHTTPRequestRouter/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyHTTPRequestRouter
 .. |img-pyHTTPRequestRouter-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyHTTPRequestRouter
    :alt: Libraries.io SourceRank
    :height: 22
@@ -307,10 +339,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyIPXACT/network/dependents
-.. |img-pyIPXACT-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyIPXACT-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyIPXACT
+.. |img-pyIPXACT-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyIPXACT
+.. |img-pyIPXACT-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyIPXACT/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyIPXACT
 .. |img-pyIPXACT-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyIPXACT
    :alt: Libraries.io SourceRank
    :height: 22
@@ -371,10 +411,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/sphinxcontrib-vhdldomain/network/dependents
-.. |img-vhdldomain-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-vhdldomain-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/sphinxcontrib-vhdldomain
+.. |img-vhdldomain-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/sphinxcontrib-vhdldomain
+.. |img-vhdldomain-codecov-coverage| image:: https://codecov.io/gh/Paebbels/sphinxcontrib-vhdldomain/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/sphinxcontrib-vhdldomain
 .. |img-vhdldomain-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/sphinxcontrib-vhdldomain
    :alt: Libraries.io SourceRank
    :height: 22
@@ -434,10 +482,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/SphinxExtensions/network/dependents
-.. |img-SphinxExtensions-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-SphinxExtensions-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/SphinxExtensions
+.. |img-SphinxExtensions-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/SphinxExtensions
+.. |img-SphinxExtensions-codecov-coverage| image:: https://codecov.io/gh/Paebbels/SphinxExtensions/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/SphinxExtensions
 .. |img-SphinxExtensions-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/SphinxExtensions
    :alt: Libraries.io SourceRank
    :height: 22
@@ -497,10 +553,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyExtendedConfigParser/network/dependents
-.. |img-pyExtendedConfigParser-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyExtendedConfigParser-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyExtendedConfigParser
+.. |img-pyExtendedConfigParser-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyExtendedConfigParser
+.. |img-pyExtendedConfigParser-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyExtendedConfigParser/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyExtendedConfigParser
 .. |img-pyExtendedConfigParser-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyExtendedConfigParser
    :alt: Libraries.io SourceRank
    :height: 22
@@ -560,10 +624,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyAttributes/network/dependents
-.. |img-pyAttributes-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyAttributes-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyAttributes
+.. |img-pyAttributes-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyAttributes
+.. |img-pyAttributes-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyAttributes/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyAttributes
 .. |img-pyAttributes-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyAttributes
    :alt: Libraries.io SourceRank
    :height: 22
@@ -623,10 +695,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyCallBy/network/dependents
-.. |img-pyCallBy-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyCallBy-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyCallBy
+.. |img-pyCallBy-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyCallBy
+.. |img-pyCallBy-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyCallBy/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyCallBy
 .. |img-pyCallBy-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyCallBy
    :alt: Libraries.io SourceRank
    :height: 22
@@ -686,10 +766,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyExceptions/network/dependents
-.. |img-pyExceptions-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyExceptions-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyExceptions
+.. |img-pyExceptions-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyExceptions
+.. |img-pyExceptions-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyExceptions/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyExceptions
 .. |img-pyExceptions-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyExceptions
    :alt: Libraries.io SourceRank
    :height: 22
@@ -749,10 +837,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyGenericPath/network/dependents
-.. |img-pyGenericPath-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyGenericPath-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyGenericPath
+.. |img-pyGenericPath-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyGenericPath
+.. |img-pyGenericPath-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyGenericPath/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyGenericPath
 .. |img-pyGenericPath-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyGenericPath
    :alt: Libraries.io SourceRank
    :height: 22
@@ -812,10 +908,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPInterface/network/dependents
-.. |img-pyHTTPInterface-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyHTTPInterface-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyHTTPInterface
+.. |img-pyHTTPInterface-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyHTTPInterface
+.. |img-pyHTTPInterface-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyHTTPInterface/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyHTTPInterface
 .. |img-pyHTTPInterface-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyHTTPInterface
    :alt: Libraries.io SourceRank
    :height: 22
@@ -875,10 +979,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyHTTPServer/network/dependents
-.. |img-pyHTTPServer-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyHTTPServer-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyHTTPServer
+.. |img-pyHTTPServer-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyHTTPServer
+.. |img-pyHTTPServer-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyHTTPServer/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyHTTPServer
 .. |img-pyHTTPServer-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyHTTPServer
    :alt: Libraries.io SourceRank
    :height: 22
@@ -938,10 +1050,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyMetaClasses/network/dependents
-.. |img-pyMetaClasses-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyMetaClasses-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyMetaClasses
+.. |img-pyMetaClasses-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyMetaClasses
+.. |img-pyMetaClasses-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyMetaClasses/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyMetaClasses
 .. |img-pyMetaClasses-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyMetaClasses
    :alt: Libraries.io SourceRank
    :height: 22
@@ -1001,10 +1121,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyTerminalUI/network/dependents
-.. |img-pyTerminalUI-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyTerminalUI-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyTerminalUI
+.. |img-pyTerminalUI-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyTerminalUI
+.. |img-pyTerminalUI-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyTerminalUI/branch/master/graph/badge.svg
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyTerminalUI
 .. |img-pyTerminalUI-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyTerminalUI
    :alt: Libraries.io SourceRank
    :height: 22
@@ -1064,10 +1192,18 @@ Python Projects - Summary
    :alt: Dependent repos (via libraries.io)
    :height: 22
    :target: https://github.com/Paebbels/pyTokenizer/network/dependents
-.. |img-pyTokenizer-codacy| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
-   :alt: Codacy Badge
+.. |img-pyTokenizer-codacy-quality| image:: https://img.shields.io/codacy/grade/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Quality
    :height: 22
    :target: https://www.codacy.com/manual/Paebbels/pyTokenizer
+.. |img-pyTokenizer-codacy-coverage| image:: https://img.shields.io/codacy/coverage/1155f244b6f54a3a95abdaa80d6771f8?logo=codacy
+   :alt: Codacy - Line Coverage
+   :height: 22
+   :target: https://www.codacy.com/manual/Paebbels/pyTokenizer
+.. |img-pyTokenizer-codecov-coverage| image:: https://codecov.io/gh/Paebbels/pyTokenizer/branch/master/graph/badge.svg
+   :alt: Codecov - Branch Coverage
+   :height: 22
+   :target: https://codecov.io/gh/Paebbels/pyTokenizer
 .. |img-pyTokenizer-lib-rank| image:: https://img.shields.io/librariesio/sourcerank/pypi/pyTokenizer
    :alt: Libraries.io SourceRank
    :height: 22
@@ -1082,43 +1218,43 @@ Python Projects - Summary
 
    <div style="overflow-x: auto;white-space: nowrap;">
 
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| Project                   | GitHub - Sourcecode Repository         | GitHub - Sourcecode License            | GitHub - Tag                        | GitHub - Release                        | GitHub - Since last Release          | Library.io - Dependency Status             | Requires.io - Requirements Status          | Travis-CI - Build Status               | PyPI - Release                           | PyPI - Dev. Status                          | PyPI - Tested Python Versions               | Libraries.io - Dependants               | Codacy - Status                        | Libraries.io - Source Rank               | ReadTheDocs - Build Status          |
-+===========================+========================================+========================================+=====================================+=========================================+======================================+============================================+============================================+========================================+==========================================+=============================================+=============================================+=========================================+========================================+==========================================+=====================================+
-| pyIPCMI                   | |img-pyIPCMI-github|                   | |img-pyIPCMI-license|                  | |img-pyIPCMI-tag|                   | |img-pyIPCMI-release|                   | |img-pyIPCMI-date|                   | |img-pyIPCMI-lib-status|                   | |img-pyIPCMI-req-status|                   | |img-pyIPCMI-travis|                   | |img-pyIPCMI-pypi-tag|                   | |img-pyIPCMI-pypi-status|                   | |img-pyIPCMI-pypi-python|                   | |img-pyIPCMI-lib-dep|                   | |img-pyIPCMI-codacy|                   | |img-pyIPCMI-lib-rank|                   | |img-pyIPCMI-rtd|                   |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyVHDLParser              | |img-pyVHDLParser-github|              | |img-pyVHDLParser-license|             | |img-pyVHDLParser-tag|              | |img-pyVHDLParser-release|              | |img-pyVHDLParser-date|              | |img-pyVHDLParser-lib-status|              | |img-pyVHDLParser-req-status|              | |img-pyVHDLParser-travis|              | |img-pyVHDLParser-pypi-tag|              | |img-pyVHDLParser-pypi-status|              | |img-pyVHDLParser-pypi-python|              | |img-pyVHDLParser-lib-dep|              | |img-pyVHDLParser-codacy|              | |img-pyVHDLParser-lib-rank|              | |img-pyVHDLParser-rtd|              |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyExploringCodeDOMParser  | |img-pyExploringCodeDOMParser-github|  | |img-pyExploringCodeDOMParser-license| | |img-pyExploringCodeDOMParser-tag|  | |img-pyExploringCodeDOMParser-release|  | |img-pyExploringCodeDOMParser-date|  | |img-pyExploringCodeDOMParser-lib-status|  | |img-pyExploringCodeDOMParser-req-status|  | |img-pyExploringCodeDOMParser-travis|  | |img-pyExploringCodeDOMParser-pypi-tag|  | |img-pyExploringCodeDOMParser-pypi-status|  | |img-pyExploringCodeDOMParser-pypi-python|  | |img-pyExploringCodeDOMParser-lib-dep|  | |img-pyExploringCodeDOMParser-codacy|  | |img-pyExploringCodeDOMParser-lib-rank|  | |img-pyExploringCodeDOMParser-rtd|  |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyHTTPRequestRouter       | |img-pyHTTPRequestRouter-github|       | |img-pyHTTPRequestRouter-license|      | |img-pyHTTPRequestRouter-tag|       | |img-pyHTTPRequestRouter-release|       | |img-pyHTTPRequestRouter-date|       | |img-pyHTTPRequestRouter-lib-status|       | |img-pyHTTPRequestRouter-req-status|       | |img-pyHTTPRequestRouter-travis|       | |img-pyHTTPRequestRouter-pypi-tag|       | |img-pyHTTPRequestRouter-pypi-status|       | |img-pyHTTPRequestRouter-pypi-python|       | |img-pyHTTPRequestRouter-lib-dep|       | |img-pyHTTPRequestRouter-codacy|       | |img-pyHTTPRequestRouter-lib-rank|       | |img-pyHTTPRequestRouter-rtd|       |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyIPXACT                  | |img-pyIPXACT-github|                  | |img-pyIPXACT-license|                 | |img-pyIPXACT-tag|                  | |img-pyIPXACT-release|                  | |img-pyIPXACT-date|                  | |img-pyIPXACT-lib-status|                  | |img-pyIPXACT-req-status|                  | |img-pyIPXACT-travis|                  | |img-pyIPXACT-pypi-tag|                  | |img-pyIPXACT-pypi-status|                  | |img-pyIPXACT-pypi-python|                  | |img-pyIPXACT-lib-dep|                  | |img-pyIPXACT-codacy|                  | |img-pyIPXACT-lib-rank|                  | |img-pyIPXACT-rtd|                  |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| sphinxcontrib-vhdldomain  | |img-vhdldomain-github|                | |img-vhdldomain-license|               | |img-vhdldomain-tag|                | |img-vhdldomain-release|                | |img-vhdldomain-date|                | |img-vhdldomain-lib-status|                | |img-vhdldomain-req-status|                | |img-vhdldomain-travis|                | |img-vhdldomain-pypi-tag|                | |img-vhdldomain-pypi-status|                | |img-vhdldomain-pypi-python|                | |img-vhdldomain-lib-dep|                | |img-vhdldomain-codacy|                | |img-vhdldomain-lib-rank|                | |img-vhdldomain-rtd|                |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| SphinxExtensions          | |img-SphinxExtensions-github|          | |img-SphinxExtensions-license|         | |img-SphinxExtensions-tag|          | |img-SphinxExtensions-release|          | |img-SphinxExtensions-date|          | |img-SphinxExtensions-lib-status|          | |img-SphinxExtensions-req-status|          | |img-SphinxExtensions-travis|          | |img-SphinxExtensions-pypi-tag|          | |img-SphinxExtensions-pypi-status|          | |img-SphinxExtensions-pypi-python|          | |img-SphinxExtensions-lib-dep|          | |img-SphinxExtensions-codacy|          | |img-SphinxExtensions-lib-rank|          | |img-SphinxExtensions-rtd|          |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyExtendedConfigParser    | |img-pyExtendedConfigParser-github|    | |img-pyExtendedConfigParser-license|   | |img-pyExtendedConfigParser-tag|    | |img-pyExtendedConfigParser-release|    | |img-pyExtendedConfigParser-date|    | |img-pyExtendedConfigParser-lib-status|    | |img-pyExtendedConfigParser-req-status|    | |img-pyExtendedConfigParser-travis|    | |img-pyExtendedConfigParser-pypi-tag|    | |img-pyExtendedConfigParser-pypi-status|    | |img-pyExtendedConfigParser-pypi-python|    | |img-pyExtendedConfigParser-lib-dep|    | |img-pyExtendedConfigParser-codacy|    | |img-pyExtendedConfigParser-lib-rank|    | |img-pyExtendedConfigParser-rtd|    |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyAttributes              | |img-pyAttributes-github|              | |img-pyAttributes-license|             | |img-pyAttributes-tag|              | |img-pyAttributes-release|              | |img-pyAttributes-date|              | |img-pyAttributes-lib-status|              | |img-pyAttributes-req-status|              | |img-pyAttributes-travis|              | |img-pyAttributes-pypi-tag|              | |img-pyAttributes-pypi-status|              | |img-pyAttributes-pypi-python|              | |img-pyAttributes-lib-dep|              | |img-pyAttributes-codacy|              | |img-pyAttributes-lib-rank|              | |img-pyAttributes-rtd|              |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyCallBy                  | |img-pyCallBy-github|                  | |img-pyCallBy-license|                 | |img-pyCallBy-tag|                  | |img-pyCallBy-release|                  | |img-pyCallBy-date|                  | |img-pyCallBy-lib-status|                  | |img-pyCallBy-req-status|                  | |img-pyCallBy-travis|                  | |img-pyCallBy-pypi-tag|                  | |img-pyCallBy-pypi-status|                  | |img-pyCallBy-pypi-python|                  | |img-pyCallBy-lib-dep|                  | |img-pyCallBy-codacy|                  | |img-pyCallBy-lib-rank|                  | |img-pyCallBy-rtd|                  |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyExceptions              | |img-pyExceptions-github|              | |img-pyExceptions-license|             | |img-pyExceptions-tag|              | |img-pyExceptions-release|              | |img-pyExceptions-date|              | |img-pyExceptions-lib-status|              | |img-pyExceptions-req-status|              | |img-pyExceptions-travis|              | |img-pyExceptions-pypi-tag|              | |img-pyExceptions-pypi-status|              | |img-pyExceptions-pypi-python|              | |img-pyExceptions-lib-dep|              | |img-pyExceptions-codacy|              | |img-pyExceptions-lib-rank|              | |img-pyExceptions-rtd|              |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyGenericPath             | |img-pyGenericPath-github|             | |img-pyGenericPath-license|            | |img-pyGenericPath-tag|             | |img-pyGenericPath-release|             | |img-pyGenericPath-date|             | |img-pyGenericPath-lib-status|             | |img-pyGenericPath-req-status|             | |img-pyGenericPath-travis|             | |img-pyGenericPath-pypi-tag|             | |img-pyGenericPath-pypi-status|             | |img-pyGenericPath-pypi-python|             | |img-pyGenericPath-lib-dep|             | |img-pyGenericPath-codacy|             | |img-pyGenericPath-lib-rank|             | |img-pyGenericPath-rtd|             |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyHTTPInterface           | |img-pyHTTPInterface-github|           | |img-pyHTTPInterface-license|          | |img-pyHTTPInterface-tag|           | |img-pyHTTPInterface-release|           | |img-pyHTTPInterface-date|           | |img-pyHTTPInterface-lib-status|           | |img-pyHTTPInterface-req-status|           | |img-pyHTTPInterface-travis|           | |img-pyHTTPInterface-pypi-tag|           | |img-pyHTTPInterface-pypi-status|           | |img-pyHTTPInterface-pypi-python|           | |img-pyHTTPInterface-lib-dep|           | |img-pyHTTPInterface-codacy|           | |img-pyHTTPInterface-lib-rank|           | |img-pyHTTPInterface-rtd|           |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyHTTPServer              | |img-pyHTTPServer-github|              | |img-pyHTTPServer-license|             | |img-pyHTTPServer-tag|              | |img-pyHTTPServer-release|              | |img-pyHTTPServer-date|              | |img-pyHTTPServer-lib-status|              | |img-pyHTTPServer-req-status|              | |img-pyHTTPServer-travis|              | |img-pyHTTPServer-pypi-tag|              | |img-pyHTTPServer-pypi-status|              | |img-pyHTTPServer-pypi-python|              | |img-pyHTTPServer-lib-dep|              | |img-pyHTTPServer-codacy|              | |img-pyHTTPServer-lib-rank|              | |img-pyHTTPServer-rtd|              |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyMetaClasses             | |img-pyMetaClasses-github|             | |img-pyMetaClasses-license|            | |img-pyMetaClasses-tag|             | |img-pyMetaClasses-release|             | |img-pyMetaClasses-date|             | |img-pyMetaClasses-lib-status|             | |img-pyMetaClasses-req-status|             | |img-pyMetaClasses-travis|             | |img-pyMetaClasses-pypi-tag|             | |img-pyMetaClasses-pypi-status|             | |img-pyMetaClasses-pypi-python|             | |img-pyMetaClasses-lib-dep|             | |img-pyMetaClasses-codacy|             | |img-pyMetaClasses-lib-rank|             | |img-pyMetaClasses-rtd|             |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyTerminalUI              | |img-pyTerminalUI-github|              | |img-pyTerminalUI-license|             | |img-pyTerminalUI-tag|              | |img-pyTerminalUI-release|              | |img-pyTerminalUI-date|              | |img-pyTerminalUI-lib-status|              | |img-pyTerminalUI-req-status|              | |img-pyTerminalUI-travis|              | |img-pyTerminalUI-pypi-tag|              | |img-pyTerminalUI-pypi-status|              | |img-pyTerminalUI-pypi-python|              | |img-pyTerminalUI-lib-dep|              | |img-pyTerminalUI-codacy|              | |img-pyTerminalUI-lib-rank|              | |img-pyTerminalUI-rtd|              |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
-| pyTokenizer               | |img-pyTokenizer-github|               | |img-pyTokenizer-license|              | |img-pyTokenizer-tag|               | |img-pyTokenizer-release|               | |img-pyTokenizer-date|               | |img-pyTokenizer-lib-status|               | |img-pyTokenizer-req-status|               | |img-pyTokenizer-travis|               | |img-pyTokenizer-pypi-tag|               | |img-pyTokenizer-pypi-status|               | |img-pyTokenizer-pypi-python|               | |img-pyTokenizer-lib-dep|               | |img-pyTokenizer-codacy|               | |img-pyTokenizer-lib-rank|               | |img-pyTokenizer-rtd|               |
-+---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+----------------------------------------+------------------------------------------+-------------------------------------+
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| Project                   | GitHub - Sourcecode Repository         | GitHub - Sourcecode License            | GitHub - Tag                        | GitHub - Release                        | GitHub - Since last Release          | Library.io - Dependency Status             | Requires.io - Requirements Status          | Travis-CI - Build Status               | PyPI - Release                           | PyPI - Dev. Status                          | PyPI - Tested Python Versions               | Libraries.io - Dependants               | Codacy - Quality                               | Codacy - Line Coverage                          | Codecov - Branch Coverage                        | Libraries.io - Source Rank               | ReadTheDocs - Build Status          |
++===========================+========================================+========================================+=====================================+=========================================+======================================+============================================+============================================+========================================+==========================================+=============================================+=============================================+=========================================+================================================+=================================================+==================================================+==========================================+=====================================+
+| pyIPCMI                   | |img-pyIPCMI-github|                   | |img-pyIPCMI-license|                  | |img-pyIPCMI-tag|                   | |img-pyIPCMI-release|                   | |img-pyIPCMI-date|                   | |img-pyIPCMI-lib-status|                   | |img-pyIPCMI-req-status|                   | |img-pyIPCMI-travis|                   | |img-pyIPCMI-pypi-tag|                   | |img-pyIPCMI-pypi-status|                   | |img-pyIPCMI-pypi-python|                   | |img-pyIPCMI-lib-dep|                   | |img-pyIPCMI-codacy-quality|                   | |img-pyIPCMI-codacy-coverage|                   | |img-pyIPCMI-codecov-coverage|                   | |img-pyIPCMI-lib-rank|                   | |img-pyIPCMI-rtd|                   |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyVHDLParser              | |img-pyVHDLParser-github|              | |img-pyVHDLParser-license|             | |img-pyVHDLParser-tag|              | |img-pyVHDLParser-release|              | |img-pyVHDLParser-date|              | |img-pyVHDLParser-lib-status|              | |img-pyVHDLParser-req-status|              | |img-pyVHDLParser-travis|              | |img-pyVHDLParser-pypi-tag|              | |img-pyVHDLParser-pypi-status|              | |img-pyVHDLParser-pypi-python|              | |img-pyVHDLParser-lib-dep|              | |img-pyVHDLParser-codacy-quality|              | |img-pyVHDLParser-codacy-coverage|              | |img-pyVHDLParser-codecov-coverage|              | |img-pyVHDLParser-lib-rank|              | |img-pyVHDLParser-rtd|              |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyExploringCodeDOMParser  | |img-pyExploringCodeDOMParser-github|  | |img-pyExploringCodeDOMParser-license| | |img-pyExploringCodeDOMParser-tag|  | |img-pyExploringCodeDOMParser-release|  | |img-pyExploringCodeDOMParser-date|  | |img-pyExploringCodeDOMParser-lib-status|  | |img-pyExploringCodeDOMParser-req-status|  | |img-pyExploringCodeDOMParser-travis|  | |img-pyExploringCodeDOMParser-pypi-tag|  | |img-pyExploringCodeDOMParser-pypi-status|  | |img-pyExploringCodeDOMParser-pypi-python|  | |img-pyExploringCodeDOMParser-lib-dep|  | |img-pyExploringCodeDOMParser-codacy-quality|  | |img-pyExploringCodeDOMParser-codacy-coverage|  | |img-pyExploringCodeDOMParser-codecov-coverage|  | |img-pyExploringCodeDOMParser-lib-rank|  | |img-pyExploringCodeDOMParser-rtd|  |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyHTTPRequestRouter       | |img-pyHTTPRequestRouter-github|       | |img-pyHTTPRequestRouter-license|      | |img-pyHTTPRequestRouter-tag|       | |img-pyHTTPRequestRouter-release|       | |img-pyHTTPRequestRouter-date|       | |img-pyHTTPRequestRouter-lib-status|       | |img-pyHTTPRequestRouter-req-status|       | |img-pyHTTPRequestRouter-travis|       | |img-pyHTTPRequestRouter-pypi-tag|       | |img-pyHTTPRequestRouter-pypi-status|       | |img-pyHTTPRequestRouter-pypi-python|       | |img-pyHTTPRequestRouter-lib-dep|       | |img-pyHTTPRequestRouter-codacy-quality|       | |img-pyHTTPRequestRouter-codacy-coverage|       | |img-pyHTTPRequestRouter-codecov-coverage|       | |img-pyHTTPRequestRouter-lib-rank|       | |img-pyHTTPRequestRouter-rtd|       |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyIPXACT                  | |img-pyIPXACT-github|                  | |img-pyIPXACT-license|                 | |img-pyIPXACT-tag|                  | |img-pyIPXACT-release|                  | |img-pyIPXACT-date|                  | |img-pyIPXACT-lib-status|                  | |img-pyIPXACT-req-status|                  | |img-pyIPXACT-travis|                  | |img-pyIPXACT-pypi-tag|                  | |img-pyIPXACT-pypi-status|                  | |img-pyIPXACT-pypi-python|                  | |img-pyIPXACT-lib-dep|                  | |img-pyIPXACT-codacy-quality|                  | |img-pyIPXACT-codacy-coverage|                  | |img-pyIPXACT-codecov-coverage|                  | |img-pyIPXACT-lib-rank|                  | |img-pyIPXACT-rtd|                  |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| sphinxcontrib-vhdldomain  | |img-vhdldomain-github|                | |img-vhdldomain-license|               | |img-vhdldomain-tag|                | |img-vhdldomain-release|                | |img-vhdldomain-date|                | |img-vhdldomain-lib-status|                | |img-vhdldomain-req-status|                | |img-vhdldomain-travis|                | |img-vhdldomain-pypi-tag|                | |img-vhdldomain-pypi-status|                | |img-vhdldomain-pypi-python|                | |img-vhdldomain-lib-dep|                | |img-vhdldomain-codacy-quality|                | |img-vhdldomain-codacy-coverage|                | |img-vhdldomain-codecov-coverage|                | |img-vhdldomain-lib-rank|                | |img-vhdldomain-rtd|                |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| SphinxExtensions          | |img-SphinxExtensions-github|          | |img-SphinxExtensions-license|         | |img-SphinxExtensions-tag|          | |img-SphinxExtensions-release|          | |img-SphinxExtensions-date|          | |img-SphinxExtensions-lib-status|          | |img-SphinxExtensions-req-status|          | |img-SphinxExtensions-travis|          | |img-SphinxExtensions-pypi-tag|          | |img-SphinxExtensions-pypi-status|          | |img-SphinxExtensions-pypi-python|          | |img-SphinxExtensions-lib-dep|          | |img-SphinxExtensions-codacy-quality|          | |img-SphinxExtensions-codacy-coverage|          | |img-SphinxExtensions-codecov-coverage|          | |img-SphinxExtensions-lib-rank|          | |img-SphinxExtensions-rtd|          |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyExtendedConfigParser    | |img-pyExtendedConfigParser-github|    | |img-pyExtendedConfigParser-license|   | |img-pyExtendedConfigParser-tag|    | |img-pyExtendedConfigParser-release|    | |img-pyExtendedConfigParser-date|    | |img-pyExtendedConfigParser-lib-status|    | |img-pyExtendedConfigParser-req-status|    | |img-pyExtendedConfigParser-travis|    | |img-pyExtendedConfigParser-pypi-tag|    | |img-pyExtendedConfigParser-pypi-status|    | |img-pyExtendedConfigParser-pypi-python|    | |img-pyExtendedConfigParser-lib-dep|    | |img-pyExtendedConfigParser-codacy-quality|    | |img-pyExtendedConfigParser-codacy-coverage|    | |img-pyExtendedConfigParser-codecov-coverage|    | |img-pyExtendedConfigParser-lib-rank|    | |img-pyExtendedConfigParser-rtd|    |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyAttributes              | |img-pyAttributes-github|              | |img-pyAttributes-license|             | |img-pyAttributes-tag|              | |img-pyAttributes-release|              | |img-pyAttributes-date|              | |img-pyAttributes-lib-status|              | |img-pyAttributes-req-status|              | |img-pyAttributes-travis|              | |img-pyAttributes-pypi-tag|              | |img-pyAttributes-pypi-status|              | |img-pyAttributes-pypi-python|              | |img-pyAttributes-lib-dep|              | |img-pyAttributes-codacy-quality|              | |img-pyAttributes-codacy-coverage|              | |img-pyAttributes-codecov-coverage|              | |img-pyAttributes-lib-rank|              | |img-pyAttributes-rtd|              |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyCallBy                  | |img-pyCallBy-github|                  | |img-pyCallBy-license|                 | |img-pyCallBy-tag|                  | |img-pyCallBy-release|                  | |img-pyCallBy-date|                  | |img-pyCallBy-lib-status|                  | |img-pyCallBy-req-status|                  | |img-pyCallBy-travis|                  | |img-pyCallBy-pypi-tag|                  | |img-pyCallBy-pypi-status|                  | |img-pyCallBy-pypi-python|                  | |img-pyCallBy-lib-dep|                  | |img-pyCallBy-codacy-quality|                  | |img-pyCallBy-codacy-coverage|                  | |img-pyCallBy-codecov-coverage|                  | |img-pyCallBy-lib-rank|                  | |img-pyCallBy-rtd|                  |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyExceptions              | |img-pyExceptions-github|              | |img-pyExceptions-license|             | |img-pyExceptions-tag|              | |img-pyExceptions-release|              | |img-pyExceptions-date|              | |img-pyExceptions-lib-status|              | |img-pyExceptions-req-status|              | |img-pyExceptions-travis|              | |img-pyExceptions-pypi-tag|              | |img-pyExceptions-pypi-status|              | |img-pyExceptions-pypi-python|              | |img-pyExceptions-lib-dep|              | |img-pyExceptions-codacy-quality|              | |img-pyExceptions-codacy-coverage|              | |img-pyExceptions-codecov-coverage|              | |img-pyExceptions-lib-rank|              | |img-pyExceptions-rtd|              |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyGenericPath             | |img-pyGenericPath-github|             | |img-pyGenericPath-license|            | |img-pyGenericPath-tag|             | |img-pyGenericPath-release|             | |img-pyGenericPath-date|             | |img-pyGenericPath-lib-status|             | |img-pyGenericPath-req-status|             | |img-pyGenericPath-travis|             | |img-pyGenericPath-pypi-tag|             | |img-pyGenericPath-pypi-status|             | |img-pyGenericPath-pypi-python|             | |img-pyGenericPath-lib-dep|             | |img-pyGenericPath-codacy-quality|             | |img-pyGenericPath-codacy-coverage|             | |img-pyGenericPath-codecov-coverage|             | |img-pyGenericPath-lib-rank|             | |img-pyGenericPath-rtd|             |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyHTTPInterface           | |img-pyHTTPInterface-github|           | |img-pyHTTPInterface-license|          | |img-pyHTTPInterface-tag|           | |img-pyHTTPInterface-release|           | |img-pyHTTPInterface-date|           | |img-pyHTTPInterface-lib-status|           | |img-pyHTTPInterface-req-status|           | |img-pyHTTPInterface-travis|           | |img-pyHTTPInterface-pypi-tag|           | |img-pyHTTPInterface-pypi-status|           | |img-pyHTTPInterface-pypi-python|           | |img-pyHTTPInterface-lib-dep|           | |img-pyHTTPInterface-codacy-quality|           | |img-pyHTTPInterface-codacy-coverage|           | |img-pyHTTPInterface-codecov-coverage|           | |img-pyHTTPInterface-lib-rank|           | |img-pyHTTPInterface-rtd|           |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyHTTPServer              | |img-pyHTTPServer-github|              | |img-pyHTTPServer-license|             | |img-pyHTTPServer-tag|              | |img-pyHTTPServer-release|              | |img-pyHTTPServer-date|              | |img-pyHTTPServer-lib-status|              | |img-pyHTTPServer-req-status|              | |img-pyHTTPServer-travis|              | |img-pyHTTPServer-pypi-tag|              | |img-pyHTTPServer-pypi-status|              | |img-pyHTTPServer-pypi-python|              | |img-pyHTTPServer-lib-dep|              | |img-pyHTTPServer-codacy-quality|              | |img-pyHTTPServer-codacy-coverage|              | |img-pyHTTPServer-codecov-coverage|              | |img-pyHTTPServer-lib-rank|              | |img-pyHTTPServer-rtd|              |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyMetaClasses             | |img-pyMetaClasses-github|             | |img-pyMetaClasses-license|            | |img-pyMetaClasses-tag|             | |img-pyMetaClasses-release|             | |img-pyMetaClasses-date|             | |img-pyMetaClasses-lib-status|             | |img-pyMetaClasses-req-status|             | |img-pyMetaClasses-travis|             | |img-pyMetaClasses-pypi-tag|             | |img-pyMetaClasses-pypi-status|             | |img-pyMetaClasses-pypi-python|             | |img-pyMetaClasses-lib-dep|             | |img-pyMetaClasses-codacy-quality|             | |img-pyMetaClasses-codacy-coverage|             | |img-pyMetaClasses-codecov-coverage|             | |img-pyMetaClasses-lib-rank|             | |img-pyMetaClasses-rtd|             |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyTerminalUI              | |img-pyTerminalUI-github|              | |img-pyTerminalUI-license|             | |img-pyTerminalUI-tag|              | |img-pyTerminalUI-release|              | |img-pyTerminalUI-date|              | |img-pyTerminalUI-lib-status|              | |img-pyTerminalUI-req-status|              | |img-pyTerminalUI-travis|              | |img-pyTerminalUI-pypi-tag|              | |img-pyTerminalUI-pypi-status|              | |img-pyTerminalUI-pypi-python|              | |img-pyTerminalUI-lib-dep|              | |img-pyTerminalUI-codacy-quality|              | |img-pyTerminalUI-codacy-coverage|              | |img-pyTerminalUI-codecov-coverage|              | |img-pyTerminalUI-lib-rank|              | |img-pyTerminalUI-rtd|              |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
+| pyTokenizer               | |img-pyTokenizer-github|               | |img-pyTokenizer-license|              | |img-pyTokenizer-tag|               | |img-pyTokenizer-release|               | |img-pyTokenizer-date|               | |img-pyTokenizer-lib-status|               | |img-pyTokenizer-req-status|               | |img-pyTokenizer-travis|               | |img-pyTokenizer-pypi-tag|               | |img-pyTokenizer-pypi-status|               | |img-pyTokenizer-pypi-python|               | |img-pyTokenizer-lib-dep|               | |img-pyTokenizer-codacy-quality|               | |img-pyTokenizer-codacy-coverage|               | |img-pyTokenizer-codecov-coverage|               | |img-pyTokenizer-lib-rank|               | |img-pyTokenizer-rtd|               |
++---------------------------+----------------------------------------+----------------------------------------+-------------------------------------+-----------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+---------------------------------------------+---------------------------------------------+-----------------------------------------+------------------------------------------------+-------------------------------------------------+--------------------------------------------------+------------------------------------------+-------------------------------------+
 
 .. raw:: html
 
